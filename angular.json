@@ -119,6 +119,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "Photo-Search"
+    }
+  },
+  "defaultProject": "Photo-Search",
+  "cli": {
+    "analytics": "c39d3732-fef0-4a20-adfe-89912e505629"
+  }
 }
